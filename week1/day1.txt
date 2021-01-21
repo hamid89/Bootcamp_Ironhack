@@ -1,0 +1,22 @@
+1. echo'Hello World'
+2. mkdir new_dir
+3. rm -r new_dir
+4. cp /lab-bash/lorem/sed.txt /lab-bash/lorem-copy/
+5.  cp /lab-bash/lorem/at.txt /lab-bash/lorem-copy/;  cp /lab-bash/lorem/lorem.txt /lab-bash/lorem-copy/
+6. cat /lab-bash/lorem/sed.txt
+7. cat /lab-bash/lorem/at.txt;  cat /lab-bash/lorem/lorem.txt
+8. head -3 /lab-bash/lorem-copy/sed.txt
+9. tail -3 /lab-bash/lorem-copy/sed.txt
+10.cat 'Homo homini lupus.' >> /lab-bah/lorem-copy/sed.txt
+11. tail -3 /lab-bash/lorem-copy/sed.txt
+12. sed -i 's/et/ET/g' at.txt
+13. id -F
+14. pwd
+15. ls *.txt
+16. wc -l sed.txt
+17. ls -1 | wc -l
+BONUS
+1. name = '$hamid'
+2. echo $name 
+3. mkdir name
+4. rm -r name
